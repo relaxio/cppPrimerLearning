@@ -22,8 +22,8 @@ int main()
          << PRTTSIZE(long double);
 }
 /*
-system: `ubantu 16.04.1 LTS`, 
-compiler：`clang 3.8.0`, `gcc 5.4.0`
+system: ubantu 16.04.1 LTS 
+compiler：clang 3.8.0, gcc 5.4.0
 stdout:
 bool: 1 Bytes
 char: 1 Bytes
