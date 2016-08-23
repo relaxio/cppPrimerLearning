@@ -7,8 +7,7 @@
 ## Exercise 1.2
 Linux E.Exit Codes With Special Meanings.[\[1\]](http://www.tldp.org/LDP/abs/html/exitcodes.html)
 
-|Exit Code 
-   Number|Meaning|Example                  |Comments|
+|Exit Code Number|Meaning|Example|Comments|
 |---     |---    |---                      |---     |
 |1       |       |`var = 1/0`              |        |
 |2       |       |`empty_function(){}`     |        |
