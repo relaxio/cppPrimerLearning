@@ -33,4 +33,20 @@ long: 8 Bytes
 unsigned long: 8 Bytes
 float: 4 Bytes
 double: 8 Bytes
+
+sytem: Windows 7 SP1
+compiler: Visual Studio 2015
+          用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.23026 版
+stdout:
+char: 1 Bytes
+unsigned char: 1 Bytes
+wchar_t: 2 Bytes
+short: 2 Bytes
+unsigned short: 2 Bytes
+int: 4 Bytes
+unsigned int: 4 Bytes
+long: 4 Bytes
+unsigned long: 4 Bytes
+float: 4 Bytes
+double: 8 Bytes
 */

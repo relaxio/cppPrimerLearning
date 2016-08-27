@@ -38,4 +38,21 @@ long long: 8 Bytes
 float: 4 Bytes
 double: 8 Bytes
 long double: 16 Bytes
+
+sytem: Windows 7 SP1
+compiler: Visual Studio 2015
+          用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.23026 版
+stdout:
+bool: 1 Bytes
+char: 1 Bytes
+wchar_t: 2 Bytes
+char16_t: 2 Bytes
+char32_t: 4 Bytes
+short: 2 Bytes
+int: 4 Bytes
+long: 4 Bytes
+long long: 8 Bytes
+float: 4 Bytes
+double: 8 Bytes
+long double: 8 Bytes
 */
