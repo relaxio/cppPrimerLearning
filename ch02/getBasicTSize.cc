@@ -18,6 +18,7 @@ int main()
          << PRTTSIZE(int)
          << PRTTSIZE(long)
          << PRTTSIZE(long long)
+         << PRTTSIZE(float)
          << PRTTSIZE(double)
          << PRTTSIZE(long double);
 }
@@ -34,6 +35,7 @@ short: 2 Bytes
 int: 4 Bytes
 long: 8 Bytes
 long long: 8 Bytes
+float: 4 Bytes
 double: 8 Bytes
 long double: 16 Bytes
 */
