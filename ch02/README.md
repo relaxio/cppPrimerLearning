@@ -2,7 +2,9 @@
 
 ##Exercise 2.1
 c++规定的算术类型的最小尺寸（所占内存空间）  
-> 字节数来源 `clang 3.8.0` 环境下 [`getBasicTSize.cc`](getBasicTSize.cc) 的运行结果
+> 字节数来源 `clang 3.8.0`、`Visual Studio 2015`环境下
+[`getBasicTSize.cc`](getBasicTSize.cc) 以及
+[`getBasicTSForC.c`](getBasicTSForC.c) 的运行结果
 
 |类型         |含义          |最小尺寸    |字节数& | C |Windows cl|C|
 |---          |---           |---         |---    |---    |---|---|
