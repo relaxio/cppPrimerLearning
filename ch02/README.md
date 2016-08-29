@@ -6,7 +6,7 @@ c++规定的算术类型的最小尺寸（所占内存空间）
 [`getBasicTSize.cc`](getBasicTSize.cc) 以及
 [`getBasicTSForC.c`](getBasicTSForC.c) 的运行结果
 
-|类型         |含义          |最小尺寸    |字节数& | C |Windows cl|C|
+|类型         |含义          |最小尺寸    |字节数& | C |Windows compiler|C|
 |---          |---           |---         |:---:  |:---:|:---:|:---:|
 |`bool`       |布尔类型      |未定义      |1      |-      |1  |-  |
 |`char`       |字符          |8位         |1      |1      |1  |1  |
